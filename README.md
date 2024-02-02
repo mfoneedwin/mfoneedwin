@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin Mfone</h1>
 <h3 align="center">I enjoy working with JavaScript frameworks like ReactJS and NodeJS, but I am adaptable and open to using any tool that best fits the task</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfoneedwin&label=Profile%20views&color=0e75b6&style=flat" alt="mfoneedwin" /> </p>
 
